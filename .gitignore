@@ -1,0 +1,11 @@
+# Ignore large model binary files
+*.pkl
+*.h5
+*.onnx
+
+# Ignore raw datasets
+data/
+
+# Ignore Jupyter internal files
+.ipynb_checkpoints/
+__pycache__/
